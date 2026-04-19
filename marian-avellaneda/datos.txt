@@ -1,1 +1,2 @@
 Marian Avellaneda - marian.avellaneda@fceqyn.unam.edu.ar
+Esta es una linea equivocada para simular un error
